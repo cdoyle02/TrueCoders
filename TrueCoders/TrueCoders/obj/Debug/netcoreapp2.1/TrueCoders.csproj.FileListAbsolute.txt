@@ -1,0 +1,11 @@
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\obj\Debug\netcoreapp2.1\TrueCoders.csprojAssemblyReference.cache
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\obj\Debug\netcoreapp2.1\TrueCoders.csproj.CoreCompileInputs.cache
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\obj\Debug\netcoreapp2.1\TrueCoders.AssemblyInfoInputs.cache
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\obj\Debug\netcoreapp2.1\TrueCoders.AssemblyInfo.cs
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\bin\Debug\netcoreapp2.1\TrueCoders.deps.json
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\bin\Debug\netcoreapp2.1\TrueCoders.runtimeconfig.json
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\bin\Debug\netcoreapp2.1\TrueCoders.runtimeconfig.dev.json
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\bin\Debug\netcoreapp2.1\TrueCoders.dll
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\bin\Debug\netcoreapp2.1\TrueCoders.pdb
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\obj\Debug\netcoreapp2.1\TrueCoders.dll
+C:\Users\doyle\Desktop\charlie's repos\TrueCoders\TrueCoders\obj\Debug\netcoreapp2.1\TrueCoders.pdb
